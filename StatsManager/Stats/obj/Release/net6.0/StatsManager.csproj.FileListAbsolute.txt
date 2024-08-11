@@ -1,0 +1,30 @@
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.csproj.AssemblyReference.cache
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.AssemblyInfoInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.AssemblyInfo.cs
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.csproj.CoreCompileInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\bin\Release\net6.0\StatsManager.deps.json
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\bin\Release\net6.0\StatsManager.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\bin\Release\net6.0\StatsManager.pdb
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\bin\Release\net6.0\EODDownloader.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\bin\Release\net6.0\EODDownloader.pdb
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsMan.86A89A3A.Up2Date
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\obj\Release\net6.0\refint\StatsManager.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.pdb
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\StatsManager\Stats\obj\Release\net6.0\ref\StatsManager.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.csproj.AssemblyReference.cache
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.AssemblyInfoInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.AssemblyInfo.cs
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.csproj.CoreCompileInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\bin\Release\net6.0\StatsManager.deps.json
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\bin\Release\net6.0\StatsManager.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\bin\Release\net6.0\StatsManager.pdb
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\bin\Release\net6.0\EODDownloader.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\bin\Release\net6.0\EODDownloader.pdb
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsMan.86A89A3A.Up2Date
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\obj\Release\net6.0\refint\StatsManager.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\obj\Release\net6.0\StatsManager.pdb
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\StatsManager\Stats\obj\Release\net6.0\ref\StatsManager.dll

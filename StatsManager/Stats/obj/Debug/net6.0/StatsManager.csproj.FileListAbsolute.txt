@@ -1,0 +1,16 @@
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\bin\Debug\net6.0\StatsManager.deps.json
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\bin\Debug\net6.0\StatsManager.dll
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\bin\Debug\net6.0\StatsManager.pdb
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\bin\Debug\net6.0\EODDownloader.dll
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\bin\Debug\net6.0\TA-Lib-Core.dll
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\bin\Debug\net6.0\EODDownloader.pdb
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\obj\Debug\net6.0\StatsManager.csproj.AssemblyReference.cache
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\obj\Debug\net6.0\StatsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\obj\Debug\net6.0\StatsManager.AssemblyInfoInputs.cache
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\obj\Debug\net6.0\StatsManager.AssemblyInfo.cs
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\obj\Debug\net6.0\StatsManager.csproj.CoreCompileInputs.cache
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\obj\Debug\net6.0\StatsManager.csproj.CopyComplete
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\obj\Debug\net6.0\StatsManager.dll
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\obj\Debug\net6.0\refint\StatsManager.dll
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\obj\Debug\net6.0\StatsManager.pdb
+C:\Users\rkokkiligadd\Projects\EquityManager\StatsManager\Stats\obj\Debug\net6.0\ref\StatsManager.dll

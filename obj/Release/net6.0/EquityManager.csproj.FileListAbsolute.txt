@@ -1,0 +1,42 @@
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\obj\Release\net6.0\EquityManager.csproj.AssemblyReference.cache
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\obj\Release\net6.0\EquityManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\obj\Release\net6.0\EquityManager.AssemblyInfoInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\obj\Release\net6.0\EquityManager.AssemblyInfo.cs
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\obj\Release\net6.0\EquityManager.csproj.CoreCompileInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\bin\Release\net6.0\EquityManager.exe
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\bin\Release\net6.0\EquityManager.deps.json
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\bin\Release\net6.0\EquityManager.runtimeconfig.json
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\bin\Release\net6.0\EquityManager.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\bin\Release\net6.0\EquityManager.pdb
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\bin\Release\net6.0\TA-Lib-Core.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\bin\Release\net6.0\EODDownloader.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\bin\Release\net6.0\StatsManager.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\bin\Release\net6.0\EODDownloader.pdb
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\bin\Release\net6.0\StatsManager.pdb
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\obj\Release\net6.0\EquityMa.59A74429.Up2Date
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\obj\Release\net6.0\EquityManager.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\obj\Release\net6.0\refint\EquityManager.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\obj\Release\net6.0\EquityManager.pdb
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\obj\Release\net6.0\EquityManager.genruntimeconfig.cache
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\obj\Release\net6.0\ref\EquityManager.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\obj\Release\net6.0\EquityManager.csproj.AssemblyReference.cache
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\obj\Release\net6.0\EquityManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\obj\Release\net6.0\EquityManager.AssemblyInfoInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\obj\Release\net6.0\EquityManager.AssemblyInfo.cs
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\obj\Release\net6.0\EquityManager.csproj.CoreCompileInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\bin\Release\net6.0\EquityManager.exe
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\bin\Release\net6.0\EquityManager.deps.json
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\bin\Release\net6.0\EquityManager.runtimeconfig.json
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\bin\Release\net6.0\EquityManager.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\bin\Release\net6.0\EquityManager.pdb
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\bin\Release\net6.0\TA-Lib-Core.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\bin\Release\net6.0\EODDownloader.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\bin\Release\net6.0\StatsManager.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\bin\Release\net6.0\EODDownloader.pdb
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\bin\Release\net6.0\StatsManager.pdb
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\obj\Release\net6.0\EquityMa.59A74429.Up2Date
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\obj\Release\net6.0\EquityManager.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\obj\Release\net6.0\refint\EquityManager.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\obj\Release\net6.0\EquityManager.pdb
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\obj\Release\net6.0\EquityManager.genruntimeconfig.cache
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\obj\Release\net6.0\ref\EquityManager.dll

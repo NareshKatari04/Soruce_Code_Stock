@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EquityManager.csproj": {}
+  },
+  "projects": {
+    "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EODDownloader\\EODDownloader.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EODDownloader\\EODDownloader.csproj",
+        "projectName": "EODDownloader",
+        "projectPath": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EODDownloader\\EODDownloader.csproj",
+        "packagesPath": "C:\\Users\\Naresh\\.nuget\\packages\\",
+        "outputPath": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EODDownloader\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Naresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EquityManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EquityManager.csproj",
+        "projectName": "EquityManager",
+        "projectPath": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EquityManager.csproj",
+        "packagesPath": "C:\\Users\\Naresh\\.nuget\\packages\\",
+        "outputPath": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Naresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EODDownloader\\EODDownloader.csproj": {
+                "projectPath": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EODDownloader\\EODDownloader.csproj"
+              },
+              "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\StatsManager\\Stats\\StatsManager.csproj": {
+                "projectPath": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\StatsManager\\Stats\\StatsManager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\StatsManager\\Stats\\StatsManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\StatsManager\\Stats\\StatsManager.csproj",
+        "projectName": "StatsManager",
+        "projectPath": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\StatsManager\\Stats\\StatsManager.csproj",
+        "packagesPath": "C:\\Users\\Naresh\\.nuget\\packages\\",
+        "outputPath": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\StatsManager\\Stats\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Naresh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EODDownloader\\EODDownloader.csproj": {
+                "projectPath": "E:\\Stocks\\Code\\Latest\\EquityManager (2) - Copy\\EquityManager\\EODDownloader\\EODDownloader.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "TA-Lib": {
+              "target": "Package",
+              "version": "[0.5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

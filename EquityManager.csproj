@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="EODDownloader\**" />
+    <Compile Remove="StatsManager\**" />
+    <EmbeddedResource Remove="EODDownloader\**" />
+    <EmbeddedResource Remove="StatsManager\**" />
+    <None Remove="EODDownloader\**" />
+    <None Remove="StatsManager\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="EODDownloader\EODDownloader.csproj" />
+    <ProjectReference Include="StatsManager\Stats\StatsManager.csproj" />
+  </ItemGroup>
+
+</Project>

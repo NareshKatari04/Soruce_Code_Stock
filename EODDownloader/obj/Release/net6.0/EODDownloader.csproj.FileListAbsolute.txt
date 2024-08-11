@@ -1,0 +1,22 @@
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\EODDownloader\bin\Release\net6.0\EODDownloader.deps.json
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\EODDownloader\bin\Release\net6.0\EODDownloader.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\EODDownloader\bin\Release\net6.0\EODDownloader.pdb
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.AssemblyInfoInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.AssemblyInfo.cs
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.csproj.CoreCompileInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\EODDownloader\obj\Release\net6.0\refint\EODDownloader.dll
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.pdb
+E:\Stocks\Code\Latest\EquityManager (2)\EquityManager\EODDownloader\obj\Release\net6.0\ref\EODDownloader.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\EODDownloader\bin\Release\net6.0\EODDownloader.deps.json
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\EODDownloader\bin\Release\net6.0\EODDownloader.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\EODDownloader\bin\Release\net6.0\EODDownloader.pdb
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.AssemblyInfoInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.AssemblyInfo.cs
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.csproj.CoreCompileInputs.cache
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\EODDownloader\obj\Release\net6.0\refint\EODDownloader.dll
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\EODDownloader\obj\Release\net6.0\EODDownloader.pdb
+E:\Stocks\Code\Latest\EquityManager (2) - Copy\EquityManager\EODDownloader\obj\Release\net6.0\ref\EODDownloader.dll
